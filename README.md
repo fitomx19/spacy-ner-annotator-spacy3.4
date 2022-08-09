@@ -1,4 +1,5 @@
-# spacy-ner-annotator
+# Spacy-Ner-Annotator
+----
 
 ### Updated to Spacy 3.3 by me! 
 
