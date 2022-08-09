@@ -1,5 +1,6 @@
 # spacy-ner-annotator
 
+### Updated to Spacy 3.3 by me! 
 
 ## Installation
 pip3 install spacy
